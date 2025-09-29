@@ -1,7 +1,7 @@
 [project]
-name = "now-playing-deployment-mode"
-version = "0.1.0"
-description = "Add your description here"
+name = "Lumen"
+version = "1.0"
+description = "A simple spotipy based Spotify 'Now Playing' app"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
