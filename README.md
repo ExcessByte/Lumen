@@ -14,7 +14,7 @@
 ---
 
 ## Installation
-1. Download the ZIP file from the [releases page](https://github.com/ExcessByte/Lumen/releases)
+1. Download the ZIP file or clone repo with `git clone`
 2. Extract the contents
 3. Run the following command:
    ```bash
