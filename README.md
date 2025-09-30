@@ -14,9 +14,12 @@
 ---
 
 ## Installation
-1. Download the ZIP file or clone repo with `git clone https://github.com/ExcessByte/Lumen.git`
-2. Extract the contents
-3. Run the following command:
+1. Download the ZIP file or clone repo with
+```bash
+git clone https://github.com/ExcessByte/Lumen.git
+```
+3. Extract the contents
+4. Run the following command:
    ```bash
    uv run app.py
    ```
